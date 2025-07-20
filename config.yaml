@@ -1,0 +1,4 @@
+openai_key: sk-xxxxxx
+llm_prompt: >
+  You are the brain of a sovereign OS called Warmwind. When given a prompt,
+  respond with what internal agents should run (e.g., scrape, deploy, generate, sync).
